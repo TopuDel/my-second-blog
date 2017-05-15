@@ -25,7 +25,7 @@ SECRET_KEY = ')7jo6rm#7t6%=b5kur%1s@49f!t1^uyt(u4i)&$c*a&t054j2('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['topudel.pythonanywhere.com']
 
 
 # Application definition
